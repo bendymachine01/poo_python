@@ -50,3 +50,10 @@ def nombreMetodo(self):
  - puedes definir tantos atributos como necesites. 
  - puedes definir tantos parametros como necesites. 
  - puedes definir tantos parametros en el constructor y en los metodos como necesites.
+
+ ## COMPOOCICION
+- Consiste en la cracion  clases clases a partir de otras ya existentes seran aribuosde la nueva clase.
+- en POO lacompocicion signficaque enre las dos clases existe una racion del tipo "tiene un."
+- Ejemplo:
+    -   Una cordenada en dos dimenciones esta compuesta por dos valores, el valor del eje delas x y el valor en el eje dela y, esto podria ser una clase. Un cuadrado esta compustos por cuatra cordenadas que son los cuatro vertices, estopodriiaserunaclase que esta compuesta por cuatroclases  del objeto cordenada.
+    
