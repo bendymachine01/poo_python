@@ -18,7 +18,7 @@ class Persona:
 def main():
     p1 = Persona("Harold","Martinez",14)
     p1.MostrarPersona()
-    p2 = Persona("matias","paez",14)
+    p2 = Persona("matias","paez",10)
     p2.MostrarPersona()
     p1.Edad = 20
     p1.MostrarPersona()
